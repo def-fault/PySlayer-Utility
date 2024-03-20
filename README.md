@@ -30,7 +30,7 @@ ValidationCheck.dll : Modify DLL for SHA-1 verification bypass when modulating f
 
 patcher.py & gameserver.py : Modifying IP Input Part for Multiplayer in Patcher
 
-(mirusu400/PySlayer may not work with the latest version)
+(it may not work with the latest version in mirusu400/PySlayer)
 
 
 > sound error
