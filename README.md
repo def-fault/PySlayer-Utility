@@ -35,11 +35,15 @@ patcher.py : Modifying IP Input Part for Multiplayer in Patcher
 
 > sound error
 
-latest clients offered by def fault(self): 
+latest clients offered by def fault(self):
+
 It may have some sound error.
+
 
 2010.11.09 09:41:00.881 - ./Sound/skill_ice.wav invalid File. 6 C:\Program Files\Yahoo!Games\WindSlayer
 2010.11.09 09:41:01.494 - ./Sound/ice_bolt.wav invalid File. 6 C:\Program Files\Yahoo!Games\WindSlayer
 
+
 It's an error where certain skills sound different skills.
+
 you must download these file and drag to sound folder.
