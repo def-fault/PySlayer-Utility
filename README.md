@@ -46,4 +46,4 @@ It may have some sound error.
 
 It's an error where certain skills sound different skills.
 
-you must download these file and drag to sound folder.
+you must download these files and drag to sound folder.
